@@ -1,0 +1,11 @@
+{
+  "name": "your-vendor/my-package",
+  "description": "A simple PHP package",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Tester\\": "src/"
+    }
+  },
+  "require": {}
+}
